@@ -1,10 +1,10 @@
-Stock Price Prediction
+STOCK PRICE PREDICTION
 
-Overview
+Overview:
 
 This project aims to predict stock prices using various machine learning and deep learning techniques. It leverages historical stock market data to develop models that forecast future stock prices with improved accuracy.
 
-Features
+Features:
 
 Data collection from financial APIs (e.g., Yahoo Finance, Alpha Vantage)
 
