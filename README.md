@@ -16,7 +16,7 @@ Hyperparameter optimization using Hyperopt and Talos
 
 Performance evaluation and model comparison
 
-INSTALLATION:
+INSTALLATION:-
 
 To set up the project on your local machine, follow these steps:
 
@@ -25,11 +25,7 @@ Clone the repository:
 git clone https://github.com/Bindhu92/STOCK-PRICE-PREDICTION.git
 
 
-Install the required dependencies:
-
-pip install -r requirements.txt
-
-USAGE:
+USAGE:-
 
 Run the main script to start the stock price prediction process:
 
@@ -40,7 +36,7 @@ For hyperparameter optimization:
 python stock_pred_hyperopt.py
 python stock_pred_talos.py
 
-MODELS IMPLEMENTED:
+MODELS IMPLEMENTED:-
 
 Linear Regression
 
@@ -51,7 +47,7 @@ Long Short-Term Memory (LSTM) Networks
 XGBoost
 
 
-ACKNOWLEDGMENTS:
+ACKNOWLEDGMENTS:-
 
 Special thanks to open-source libraries such as Pandas, Scikit-learn, TensorFlow, and Keras for facilitating this project.
 
