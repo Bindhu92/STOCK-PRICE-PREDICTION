@@ -1,7 +1,6 @@
 STOCK PRICE PREDICTION
 
 Overview:
-
 This project aims to predict stock prices using various machine learning and deep learning techniques. It leverages historical stock market data to develop models that forecast future stock prices with improved accuracy.
 
 Features:
@@ -16,7 +15,7 @@ Hyperparameter optimization using Hyperopt and Talos
 
 Performance evaluation and model comparison
 
-Installation
+Installation:
 
 To set up the project on your local machine, follow these steps:
 
@@ -29,7 +28,7 @@ Install the required dependencies:
 
 pip install -r requirements.txt
 
-Usage
+Usage:
 
 Run the main script to start the stock price prediction process:
 
@@ -40,19 +39,7 @@ For hyperparameter optimization:
 python stock_pred_hyperopt.py
 python stock_pred_talos.py
 
-Project Structure
-
-STOCK-PRICE-PREDICTION/
-├── data/                  # Contains dataset files
-├── models/                # Saved models
-├── notebooks/             # Jupyter Notebooks for analysis
-├── stock_pred_main.py     # Main prediction script
-├── stock_pred_hyperopt.py # Hyperparameter tuning with Hyperopt
-├── stock_pred_talos.py    # Hyperparameter tuning with Talos
-├── requirements.txt       # Dependencies
-├── README.md              # Project documentation
-
-Models Implemented
+Models Implemented:
 
 Linear Regression
 
