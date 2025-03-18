@@ -36,8 +36,6 @@ Matplotlib, Seaborn for data visualization
 
 Yahoo Finance API/Alpha Vantage API for data collection
 
-How to Use:
-
 
 Clone the repository:
 
@@ -47,11 +45,12 @@ Install dependencies:
 
 pip install -r requirements.txt
 
-Obtain API keys for stock data sources (e.g., Yahoo Finance, Alpha Vantage) and configure the environment.
 
 Run the script to train the model and make predictions:
 
+
 python train_model.py - Train the model on historical stock data.
+
 
 python predict.py - Use the trained model to make stock price predictions.
 
