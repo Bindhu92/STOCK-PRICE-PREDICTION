@@ -23,19 +23,28 @@ Technologies Used:
 
 
 Python
-Pandas, NumPy for data manipulation
+
+Pandas
+
+NumPy for data manipulation
+
 Scikit-learn for machine learning models
+
 Keras/TensorFlow for deep learning models (e.g., LSTM)
+
 Matplotlib, Seaborn for data visualization
+
 Yahoo Finance API/Alpha Vantage API for data collection
 
 How to Use:
 
 
 Clone the repository:
+
 git clone https:https://github.com/Bindhu92/STOCK-PRICE-PREDICTION.git
 
 Install dependencies:
+
 pip install -r requirements.txt
 
 Obtain API keys for stock data sources (e.g., Yahoo Finance, Alpha Vantage) and configure the environment.
@@ -43,7 +52,7 @@ Obtain API keys for stock data sources (e.g., Yahoo Finance, Alpha Vantage) and 
 Run the script to train the model and make predictions:
 
 python train_model.py - Train the model on historical stock data.
-python predict.py - Use the trained model to make stock price predictions.
-Visualize results using provided notebooks or scripts:
 
-notebooks/Stock_Prediction_Analysis.ipynb
+python predict.py - Use the trained model to make stock price predictions.
+
+
