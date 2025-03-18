@@ -20,6 +20,8 @@ Evaluation: Model performance is evaluated using metrics such as Mean Absolute E
 Visualization: Visualizations of stock price trends, predicted vs. actual prices, and model performance are included using libraries like Matplotlib and Seaborn.
 
 Technologies Used:
+
+
 Python
 Pandas, NumPy for data manipulation
 Scikit-learn for machine learning models
@@ -27,7 +29,9 @@ Keras/TensorFlow for deep learning models (e.g., LSTM)
 Matplotlib, Seaborn for data visualization
 Yahoo Finance API/Alpha Vantage API for data collection
 
-How to Use
+How to Use:
+
+
 Clone the repository:
 git clone https:https://github.com/Bindhu92/STOCK-PRICE-PREDICTION.git
 
