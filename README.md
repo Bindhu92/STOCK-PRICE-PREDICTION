@@ -1,6 +1,7 @@
 STOCK PRICE PREDICTION
 
 OVERVIEW:-
+
 This project aims to predict stock prices using various machine learning and deep learning techniques. It leverages historical stock market data to develop models that forecast future stock prices with improved accuracy.
 
 FEATURES:-
@@ -22,7 +23,7 @@ To set up the project on your local machine, follow these steps:
 Clone the repository:
 
 git clone https://github.com/Bindhu92/STOCK-PRICE-PREDICTION.git
-cd STOCK-PRICE-PREDICTION
+
 
 Install the required dependencies:
 
